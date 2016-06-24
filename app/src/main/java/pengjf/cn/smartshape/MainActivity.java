@@ -1,7 +1,7 @@
 package pengjf.cn.smartshape;
 
+import android.app.Activity;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.View;
 import android.widget.Toast;
@@ -9,7 +9,7 @@ import android.widget.Toast;
 /**
  * Created by pengjf on 2016/6/17.
  */
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends Activity {
 
     public static final String TAG = "MainActivity";
     private DrawView mDrawView;

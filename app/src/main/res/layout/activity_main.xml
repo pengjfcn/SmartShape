@@ -33,7 +33,7 @@
             android:text="clear"
             android:onClick="clear"/>
     </LinearLayout>
-    <cinread.jj.a.DrawView
+    <pengjf.cn.smartshape.DrawView
         android:id="@+id/drawview"
         android:layout_width="match_parent"
         android:layout_height="0dp"
